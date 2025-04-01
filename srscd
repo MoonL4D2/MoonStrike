@@ -1,7 +1,6 @@
 // Launch Parameters:
 
 -game csgo
--game cs2
 -ip $IP
 -port $PORT
 -tickrate 128
