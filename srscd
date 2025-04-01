@@ -1,0 +1,38 @@
+// Launch Parameters:
+
+-game counterstrike2
+-game cs2
+-ip $IP
+-port $PORT
+-tickrate 128
+-maxplayers 32
+-timeout 10
+-high
+-preload
+-nohltv
+-nominidumps
+-nomessagebox
+-nocrashdialog
++sv_lan false
++sv_region 0
++sv_tags "ArmsRace,Casual,Competitive,Defuse,Hostage,Secure"
++sv_unlockedchapters 2147483647
++sv_visiblemaxplayers 32
++sv_parallel_packentities 2
++sv_parallel_sendsnapshot 2
++sv_max_queries_sec 6
++sv_max_queries_sec_global 120
++sv_max_queries_window 60
++sv_minrate 49152
++sv_maxrate 98304
++sv_clockcorrection_msecs 50
++sv_maxunlag 0.5
++sv_pausable 0
++map cs_dust2
++game_type 0
++game_mode 0
++skill 3
++sk_autoaim_mode 3
++bot_difficulty 3
++sv_cheats false
++servercfgfile "csgo.cfg"
