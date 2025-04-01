@@ -12,6 +12,8 @@
 -nominidumps
 -nomessagebox
 -nocrashdialog
++sv_steamgroup 38693222
++sv_steamgroup_exclusive true
 +sv_lan false
 +sv_region 0
 +sv_tags "ArmsRace,Casual,Competitive,Defuse,Hostage,Secure"
@@ -27,6 +29,7 @@
 +sv_clockcorrection_msecs 50
 +sv_maxunlag 0.5
 +sv_pausable 0
+
 +map cs_dust2
 +game_type 0
 +game_mode 0
