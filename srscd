@@ -1,4 +1,4 @@
-// Launch Parameters:
+// Launch Parameters
 
 -game csgo
 -ip $IP
@@ -12,9 +12,13 @@
 -nominidumps
 -nomessagebox
 -nocrashdialog
+
+// Console Variables
+
 +sv_steamgroup 38693222
 +sv_steamgroup_exclusive true
 +sv_lan false
++sv_cheats false
 +sv_region 0
 +sv_tags "ArmsRace,Casual,Competitive,Defuse,Hostage,Secure"
 +sv_unlockedchapters 2147483647
@@ -27,7 +31,7 @@
 +sv_minrate 49152
 +sv_maxrate 98304
 +sv_clockcorrection_msecs 50
-+sv_maxunlag 0.5
++sv_maxunlag 1.0
 +sv_pausable 0
 +sv_logsdir logs
 +sv_logfile true
@@ -42,5 +46,4 @@
 +skill 3
 +sk_autoaim_mode 3
 +bot_difficulty 3
-+sv_cheats false
 +servercfgfile "csgo.cfg"
