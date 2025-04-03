@@ -1,5 +1,9 @@
 # MoonStrike
 
-Moon's Mod for Counter-Strike 2
+Moon's dedicated Counter-Strike 2 server.
 
-Hosts Casual Games Including Hostage and Defuse
+Hosts casual games including Hostage and Defuse.
+
+Updates at 128 ticks per second.
+
+Allows up to 16 players on each team.
