@@ -28,8 +28,8 @@
 +sv_max_queries_sec 6
 +sv_max_queries_sec_global 120
 +sv_max_queries_window 60
-+sv_minrate 49152
-+sv_maxrate 98304
++sv_minrate 65536
++sv_maxrate 786432
 +sv_clockcorrection_msecs 50
 +sv_maxunlag 0.5
 +sv_pausable 0
