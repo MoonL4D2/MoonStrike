@@ -25,6 +25,7 @@
 +sv_visiblemaxplayers 32
 +sv_parallel_packentities 2
 +sv_parallel_sendsnapshot 2
++sv_parallel_checktransmit 2
 +sv_max_queries_sec 4
 +sv_max_queries_sec_global 128
 +sv_max_queries_window 64
