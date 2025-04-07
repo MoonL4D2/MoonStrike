@@ -42,6 +42,8 @@
 +sv_clockcorrection_msecs 100
 +sv_maxunlag 1.0
 +sv_pausable 0
++sv_auto_cstrafe_kick false
++sv_auto_cstrafe_logging 0
 +sv_logsdir logs
 +sv_logfile true
 +sv_log_onefile true
