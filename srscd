@@ -29,12 +29,12 @@
 +sv_networkvar_validate false
 +sv_prime_accounts_only false
 +sv_invites_only_mainmenu false
-+sv_parallel_packentities 2
-+sv_parallel_sendsnapshot 2
-+sv_parallel_checktransmit 2
 +sv_max_queries_sec 8
 +sv_max_queries_sec_global 256
 +sv_max_queries_window 128
++sv_parallel_packentities 2
++sv_parallel_sendsnapshot 2
++sv_parallel_checktransmit 2
 +sv_minrate 0
 +sv_maxrate 1000000
 +sv_late_commands_allowed 10
