@@ -52,6 +52,8 @@
 +map cs_dust2
 +game_type 0
 +game_mode 0
++sv_game_mode_flags 0
++sv_skirmish_id 0
 +skill 3
 +sk_autoaim_mode 3
 +bot_difficulty 3
