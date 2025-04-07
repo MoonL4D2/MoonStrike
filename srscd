@@ -23,6 +23,12 @@
 +sv_tags "ArmsRace,Casual,Competitive,Coop,Deathmatch,Defuse,Hostage,Secure"
 +sv_unlockedchapters 2147483647
 +sv_visiblemaxplayers 64
++sv_pure 0
++sv_pure_kick_clients false
++sv_networkvar_perfieldtracking false
++sv_networkvar_validate false
++sv_prime_accounts_only false
++sv_invites_only_mainmenu false
 +sv_parallel_packentities 2
 +sv_parallel_sendsnapshot 2
 +sv_parallel_checktransmit 2
