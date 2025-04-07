@@ -37,8 +37,9 @@
 +sv_max_queries_window 128
 +sv_minrate 0
 +sv_maxrate 1000000
-+sv_clockcorrection_msecs 100
++sv_late_commands_allowed 10
 +sv_usercmd_execute_warning_ms 10
++sv_clockcorrection_msecs 100
 +sv_maxunlag 1.0
 +sv_pausable 0
 +sv_logsdir logs
