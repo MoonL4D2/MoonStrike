@@ -8,7 +8,6 @@
 -timeout 10
 -high
 -preload
--nohltv
 -nominidumps
 -nomessagebox
 -nocrashdialog
@@ -24,13 +23,13 @@
 +sv_visiblemaxplayers 64
 +sv_prime_accounts_only false
 +sv_invites_only_mainmenu false
-+sv_cheats false
++sv_cheats true
 +sv_pure 0
 +sv_pure_kick_clients false
 +sv_networkvar_perfieldtracking false
 +sv_networkvar_validate false
-+sv_max_queries_sec 8
-+sv_max_queries_sec_global 256
++sv_max_queries_sec 4
++sv_max_queries_sec_global 128
 +sv_max_queries_window 128
 +sv_parallel_packentities 2
 +sv_parallel_sendsnapshot 2
@@ -39,7 +38,7 @@
 +sv_maxrate 1000000
 +sv_late_commands_allowed 10
 +sv_usercmd_execute_warning_ms 10
-+sv_clockcorrection_msecs 100
++sv_clockcorrection_msecs 50
 +sv_maxunlag 1.0
 +sv_pausable 0
 +sv_auto_cstrafe_kick false
