@@ -4,7 +4,7 @@
 -ip $IP
 -port $PORT
 -tickrate 128
--maxplayers 32
+-maxplayers 64
 -timeout 10
 -high
 -preload
