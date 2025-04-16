@@ -20,7 +20,7 @@
 +sv_steamgroup 38693222
 +sv_steamgroup_exclusive true
 +sv_lan false
-+sv_region 0
++sv_region 255
 +sv_tags "ArmsRace,Casual,Competitive,Coop,Deathmatch,Defuse,Hostage,Secure"
 +sv_unlockedchapters 2147483647
 +sv_visiblemaxplayers 64
