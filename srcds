@@ -1,0 +1,78 @@
+// Launch Parameters
+
+-game csgo
+-ip $IP
+-port $PORT
+-tickrate 128
+-maxplayers 64
+-timeout 10
+-high
+-preload
+-nominidumps
+-nomessagebox
+-nocrashdialog
+
+// Console Variables
+
++hostname "Bizzy-Strike"
++hostfile "myhost.txt"
++motdfile "mymotd.txt"
++sv_steamgroup 38693222
++sv_steamgroup_exclusive true
++sv_lan false
++sv_region 255
++sv_tags "ArmsRace,Casual,Competitive,Coop,Deathmatch,Defuse,Hostage,Secure"
++sv_unlockedchapters 2147483647
++sv_visiblemaxplayers 64
++sv_prime_accounts_only false
++sv_invites_only_mainmenu false
++sv_cheats true
++sv_pure 0
++sv_pure_kick_clients false
++sv_networkvar_perfieldtracking false
++sv_networkvar_validate false
++sv_max_queries_sec 4
++sv_max_queries_sec_global 128
++sv_max_queries_window 128
++sv_parallel_packentities 2
++sv_parallel_sendsnapshot 2
++sv_parallel_checktransmit 2
++sv_minrate 0
++sv_maxrate 1000000
++sv_late_commands_allowed 10
++sv_usercmd_execute_warning_ms 10
++sv_clockcorrection_msecs 50
++sv_maxunlag 1.0
++sv_pausable 0
++sv_auto_cstrafe_kick false
++sv_auto_cstrafe_logging 0
++sv_logsdir logs
++sv_logfile true
++sv_log_onefile true
++sv_logecho false
++sv_logflush false
++sv_logblocks false
++log on
++think_limit 0
++sys_minidumpspewlines 0
++engine_no_focus_sleep 0
++map cs_dust2
++game_type 0
++game_mode 0
++sv_game_mode_flags 0
++sv_skirmish_id 0
++skill 3
++sk_autoaim_mode 3
++bot_difficulty 3
++servercfgfile "csgo.cfg"
+
+// References
+
+https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
+https://www.ionos.com/digitalguide/server/know-how/cs2-server/
+https://wiki.alliedmods.net/Adding_Admins_(SourceMod)
+https://github.com/kus/cs2-modded-server
+https://steamcommunity.com/app/730/discussions/0/3872591600383047582/
+https://www.reddit.com/r/GlobalOffensive/comments/1dlq4k0/how_to_setup_a_dedicated_counterstrike_2_server/
+https://forums.alliedmods.net/showthread.php?t=344655
+https://forums.alliedmods.net/showthread.php?t=350035
