@@ -1,5 +1,6 @@
 // Launch Parameters
 
+-steam
 -game csgo
 -ip $IP
 -port $PORT
@@ -56,11 +57,11 @@
 +think_limit inf
 +sys_minidumpspewlines 0
 +engine_no_focus_sleep 0
-+map cs_dust2
-+game_type 0
-+game_mode 0
-+sv_game_mode_flags 0
-+sv_skirmish_id 0
++map "cs_dust2"
++game_type "0"
++game_mode "0"
++sv_game_mode_flags "0"
++sv_skirmish_id "0"
 +skill 3
 +sk_autoaim_mode 3
 +bot_difficulty 3
